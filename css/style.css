@@ -3,7 +3,7 @@
 }
 
 .pageContent {
-    min-height: 1200px;
+    min-height: 600px;
 }
 
 @media (max-width: 980px) {
