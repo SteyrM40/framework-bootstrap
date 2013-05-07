@@ -1,6 +1,8 @@
 
       <!-- page content -->
-      <div id="page">
+      <div class="span9">
+        <div class="well pageContent">
 
-      </div>
+        </div><!--/well-->
+      </div><!--/span-->
       <!-- End page content -->
